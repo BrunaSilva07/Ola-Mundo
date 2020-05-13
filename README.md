@@ -31,7 +31,7 @@ Ingredientes
 - [ ] 1 colher (sopa) bem cheia de fermento em pó
 
 ### Incluindo imagens:
-![assinatura2](C:\Users\brunamaria\Documents\imagens\assinatura2.png)
+![assinatura](https://github.com/BrunaSilva07/Ola-Mundo/blob/master/assinatura2.PNG)
 
 ### Incluindo link:
 
